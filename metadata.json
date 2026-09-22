@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI",
+  "description": "AI-powered job interview simulator to practice realistic interviews, receive real-time evaluations, and build confidence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
